@@ -1,0 +1,8 @@
+{
+	"admin_sections": [
+		{
+			"title": "HomePage",
+			"admin_file": "sections/homepage.json"
+		}
+	]
+}
