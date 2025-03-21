@@ -19,7 +19,7 @@
 		"Image Large": {
 			"type": "image",
 			"data": "Image_lg.png",
-			"path": "images/hompage/hero/"
+			"path": "images/homepage/hero/"
 		}
 	}
 }
