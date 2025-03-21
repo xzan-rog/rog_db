@@ -1,5 +1,5 @@
 {
-	"Hero Section": {
+	"Hero": {
 		"Title Text": {
 			"type": "text",
 			"data": "Hasten to goodness"
@@ -7,6 +7,14 @@
 		"Title Span": {
 			"type": "text",
 			"data": "from Allah"
+		},
+		"Ayah": {
+			"type": "text",
+			"data": "Never will you attain the good [reward] until you spend [in the way of Allah] from that which you love. And whatever you spend - indeed, Allah is Knowing of it."
+		},
+		"Sorah": {
+			"type": "text",
+			"data": "Surah Al Imran, Chapter 3: Verse 92"
 		}
 	}
 }
