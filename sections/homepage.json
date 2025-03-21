@@ -15,6 +15,11 @@
 		"Sorah": {
 			"type": "text",
 			"data": "Surah Al Imran, Chapter 3: Verse 92"
+		},
+		"Image Large": {
+			"type": "image",
+			"data": "Image_lg.png",
+			"path": "images/hompage/hero/"
 		}
 	}
 }
