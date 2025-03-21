@@ -20,6 +20,11 @@
 			"type": "image",
 			"data": "Image_lg.png",
 			"path": "images/homepage/hero/"
+		},
+		"Image Small": {
+			"type": "image",
+			"data": "Image_sm.png",
+			"path": "images/homepage/hero/"
 		}
 	}
 }
