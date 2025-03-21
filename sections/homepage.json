@@ -1,12 +1,12 @@
 {
-	"Hero Section": {
-		"Title Text": {
-			"type": "text",
-			"data": "Hasten to goodness"
-		},
-		"Title Span": {
-			"type": "text",
-			"data": "from Allah"
-		}
-	}
+  "Hero Section": {
+    "Title Text": {
+      "type": "text",
+      "data": "Hasten to goodness 7adr"
+    },
+    "Title Span": {
+      "type": "text",
+      "data": "from Allah"
+    }
+  }
 }
