@@ -1,18 +1,18 @@
 {
   "Hero": {
-    "Title Text": {
+    "Title Text En": {
       "type": "text",
       "data": "Hasten to goodness"
     },
-    "Title Span": {
+    "Title Span En": {
       "type": "text",
       "data": "from Allah"
     },
-    "Ayah": {
+    "Ayah En": {
       "type": "text",
       "data": "Never will you attain the good [reward] until you spend [in the way of Allah] from that which you love. And whatever you spend - indeed, Allah is Knowing of it."
     },
-    "Sorah": {
+    "Sorah En": {
       "type": "text",
       "data": "Surah Al Imran, Chapter 3: Verse 92"
     },
@@ -25,6 +25,61 @@
       "type": "image",
       "data": "Image_sm.png",
       "path": "images/homepage/hero/"
+    }
+  },
+
+  "Donation Projects": {
+    "Card 1 Title En": {
+      "type": "text",
+      "data": "Feeding"
+    },
+    "Card 2 Title En": {
+      "type": "text",
+      "data": "Building Schools"
+    },
+    "Card 3 Title En": {
+      "type": "text",
+      "data": "Da’wa"
+    },
+    "Card 4 Title En": {
+      "type": "text",
+      "data": "Water Wells"
+    },
+    "Card 1 Title Ar": {
+      "type": "text",
+      "data": "Feeding"
+    },
+    "Card 2 Title Ar": {
+      "type": "text",
+      "data": "Building Schools"
+    },
+    "Card 3 Title Ar": {
+      "type": "text",
+      "data": "Da’wa"
+    },
+    "Card 4 Title Ar": {
+      "type": "text",
+      "data": "Water Wells"
+    },
+    "Card 1 Img": {
+      "type": "image",
+      "data": "image_0.png",
+      "path": "images/homepage/donation_projects/"
+    },
+    "Card 2 Img": {
+      "type": "image",
+      "data": "image_1.png",
+      "path": "images/homepage/donation_projects/"
+    },
+    "Card 3 Img": {
+      "type": "image",
+      "data": "image_2.png",
+      "path": "images/homepage/donation_projects/"
+    },
+    "Card 4 Img": {
+      "type": "image",
+      "data": "image_3.png",
+      "path": "images/homepage/donation_projects/"
     }
   }
 }
