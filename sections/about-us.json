@@ -1,0 +1,24 @@
+{
+	"About Us": {
+		"Image 1": {
+			"type": "image",
+			"data": "image_0.png",
+			"path": "images/about-us/"
+		},
+		"Image 2": {
+			"type": "image",
+			"data": "image_1.png",
+			"path": "images/about-us/"
+		},
+		"Image 3": {
+			"type": "image",
+			"data": "image_2.png",
+			"path": "images/about-us/"
+		},
+		"Image 4": {
+			"type": "image",
+			"data": "image_3.png",
+			"path": "images/about-us/"
+		}
+	}
+}

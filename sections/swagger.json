@@ -3,6 +3,10 @@
 		{
 			"title": "HomePage",
 			"admin_file": "sections/homepage.json"
+		},
+		{
+			"title": "About Us",
+			"admin_file": "sections/about-us.json"
 		}
 	]
 }
