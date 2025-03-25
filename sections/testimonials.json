@@ -1,0 +1,100 @@
+{
+  "Testimonials": {
+    "Testimonials": {
+      "type": "element_array",
+      "path": "images/testimonials/",
+      "data": [
+        {
+          "Name": {
+            "type": "text",
+            "data": "Person 1"
+          },
+          "Review": {
+            "type": "text",
+            "data": "Review 1"
+          }
+        },
+        {
+          "Name": {
+            "type": "text",
+            "data": "Person 2"
+          },
+          "Review": {
+            "type": "text",
+            "data": "Review 2"
+          }
+        },
+        {
+          "Name": {
+            "type": "text",
+            "data": "Person 3"
+          },
+          "Review": {
+            "type": "text",
+            "data": "Review 3"
+          }
+        },
+        {
+          "Name": {
+            "type": "text",
+            "data": "Person 4"
+          },
+          "Review": {
+            "type": "text",
+            "data": "Review 4"
+          }
+        },
+        {
+          "Name": {
+            "type": "text",
+            "data": "Person 5"
+          },
+          "Review": {
+            "type": "text",
+            "data": "Review 5"
+          }
+        },
+        {
+          "Name": {
+            "type": "text",
+            "data": "Person 6"
+          },
+          "Review": {
+            "type": "text",
+            "data": "Review 6"
+          }
+        },
+        {
+          "Name": {
+            "type": "text",
+            "data": "Person 7"
+          },
+          "Review": {
+            "type": "text",
+            "data": "Review 7"
+          }
+        },
+        {
+          "Name": {
+            "type": "text",
+            "data": "Person 8"
+          },
+          "Review": {
+            "type": "text",
+            "data": "Review 8"
+          }
+        },
+        {
+          "Name": {
+            "type": "text",
+            "data": "Person 9"
+          },
+          "Review": {
+            "type": "text",
+            "data": "Review 9"
+          }
+        }
+      ]
+    }
+  }
+}
