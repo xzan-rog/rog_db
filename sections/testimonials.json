@@ -7,21 +7,21 @@
         {
           "Name": {
             "type": "text",
-            "data": "Person 2"
-          },
-          "Review": {
-            "type": "text",
-            "data": "Review 2"
-          }
-        },
-        {
-          "Name": {
-            "type": "text",
             "data": "Person 1"
           },
           "Review": {
             "type": "text",
             "data": "Review 1"
+          }
+        },
+        {
+          "Name": {
+            "type": "text",
+            "data": "Person 2"
+          },
+          "Review": {
+            "type": "text",
+            "data": "Review 2"
           }
         },
         {
