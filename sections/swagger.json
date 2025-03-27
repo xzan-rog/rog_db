@@ -11,6 +11,10 @@
 		{
 			"title": "Testimonials",
 			"admin_file": "sections/testimonials.json"
+		},
+		{
+			"title": "FAQ",
+			"admin_file": "sections/faq.json"
 		}
 	]
 }

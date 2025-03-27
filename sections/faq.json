@@ -1,0 +1,119 @@
+{
+	"FAQ En": {
+		"Question 1": {
+			"type": "text",
+			"data": "If I decide to travel with Rivers of Goodness Foundation as a volunteer, is it safe to stay in Malawi during the volunteering period?"
+		},
+		"Question 1 Answer": {
+			"type": "text",
+			"data": "Yes, the foundation ensures safe accommodations and local support for volunteers during their stay."
+		},
+		"Question 2": {
+			"type": "text",
+			"data": "If I register as a volunteer, do I have to travel to Africa?"
+		},
+		"Question 2 Answer": {
+			"type": "text",
+			"data": "No, volunteering opportunities are available both remotely and on-site."
+		},
+		"Question 3": {
+			"type": "text",
+			"data": "Which of the charity’s projects are eligible for Zakat donations?"
+		},
+		"Question 3 Answer": {
+			"type": "text",
+			"data": "Projects related to poverty alleviation, education, and emergency relief are eligible for Zakat."
+		},
+		"Question 4": {
+			"type": "text",
+			"data": "Why is the organization’s work focused on Africa?"
+		},
+		"Question 4 Answer": {
+			"type": "text",
+			"data": "Africa has high poverty rates and urgent humanitarian needs, making it a key focus area."
+		},
+		"Question 5": {
+			"type": "text",
+			"data": "I have money but don’t know which donation project to support?"
+		},
+		"Question 5 Answer": {
+			"type": "text",
+			"data": "You can explore our various projects and choose one based on your interests and impact goals."
+		},
+		"Question 6": {
+			"type": "text",
+			"data": "What steps ensure the safe receipt of donation funds?"
+		},
+		"Question 6 Answer": {
+			"type": "text",
+			"data": "We use secure payment methods and provide transparency reports on fund allocation."
+		},
+		"Question 7": {
+			"type": "text",
+			"data": "How can I be sure that donations reach the right places?"
+		},
+		"Question 7 Answer": {
+			"type": "text",
+			"data": "Our organization provides updates, reports, and testimonials from beneficiaries."
+		}
+	},
+
+	"FAQ Ar": {
+		"Question 1": {
+			"type": "text",
+			"data": "If I decide to travel with Rivers of Goodness Foundation as a volunteer, is it safe to stay in Malawi during the volunteering period?"
+		},
+		"Question 1 Answer": {
+			"type": "text",
+			"data": "Yes, the foundation ensures safe accommodations and local support for volunteers during their stay."
+		},
+		"Question 2": {
+			"type": "text",
+			"data": "If I register as a volunteer, do I have to travel to Africa?"
+		},
+		"Question 2 Answer": {
+			"type": "text",
+			"data": "No, volunteering opportunities are available both remotely and on-site."
+		},
+		"Question 3": {
+			"type": "text",
+			"data": "Which of the charity’s projects are eligible for Zakat donations?"
+		},
+		"Question 3 Answer": {
+			"type": "text",
+			"data": "Projects related to poverty alleviation, education, and emergency relief are eligible for Zakat."
+		},
+		"Question 4": {
+			"type": "text",
+			"data": "Why is the organization’s work focused on Africa?"
+		},
+		"Question 4 Answer": {
+			"type": "text",
+			"data": "Africa has high poverty rates and urgent humanitarian needs, making it a key focus area."
+		},
+		"Question 5": {
+			"type": "text",
+			"data": "I have money but don’t know which donation project to support?"
+		},
+		"Question 5 Answer": {
+			"type": "text",
+			"data": "You can explore our various projects and choose one based on your interests and impact goals."
+		},
+		"Question 6": {
+			"type": "text",
+			"data": "What steps ensure the safe receipt of donation funds?"
+		},
+		"Question 6 Answer": {
+			"type": "text",
+			"data": "We use secure payment methods and provide transparency reports on fund allocation."
+		},
+		"Question 7": {
+			"type": "text",
+			"data": "How can I be sure that donations reach the right places?"
+		},
+		"Question 7 Answer": {
+			"type": "text",
+			"data": "Our organization provides updates, reports, and testimonials from beneficiaries."
+		}
+	}
+}
