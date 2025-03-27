@@ -2,17 +2,17 @@
 	"Featured": {
 		"Image 1": {
 			"type": "image",
-			"path": "images/gallery/featured",
+			"path": "images/gallery/featured/",
 			"data": "image0.png"
 		},
 		"Image 2": {
 			"type": "image",
-			"path": "images/gallery/featured",
+			"path": "images/gallery/featured/",
 			"data": "image1.png"
 		},
 		"Image 3": {
 			"type": "image",
-			"path": "images/gallery/featured",
+			"path": "images/gallery/featured/",
 			"data": "image2.png"
 		}
 	},
@@ -20,7 +20,7 @@
 	"Gallery": {
 		"Gallery": {
 			"type": "element_array",
-			"path": "images/gallery/gallery_images",
+			"path": "images/gallery/gallery_images/",
 			"data": [
 				{
 					"Image": {
