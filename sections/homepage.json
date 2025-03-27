@@ -102,7 +102,7 @@
   "Join Us": {
     "Join Us Image": {
       "type": "image",
-      "data": "",
+      "data": "image.png",
       "path": "images/join-us/"
     }
   }
