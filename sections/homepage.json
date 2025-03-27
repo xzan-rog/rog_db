@@ -97,5 +97,13 @@
       "data": "image_3.png",
       "path": "images/homepage/donation_projects/"
     }
+  },
+
+  "Join Us": {
+    "Join Us Image": {
+      "type": "image",
+      "data": "",
+      "path": "images/join-us/"
+    }
   }
 }
