@@ -19,6 +19,10 @@
 		{
 			"title": "Gallery",
 			"admin_file": "sections/gallery.json"
+		},
+		{
+			"title": "GDrive Images",
+			"admin_file": "sections/GDrive.json"
 		}
 	]
 }

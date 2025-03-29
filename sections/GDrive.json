@@ -1,0 +1,56 @@
+{
+  "GDrive 1": {
+    "Image 1": {
+      "type": "image",
+      "path": "images/gallery/gdrive1/",
+      "data": "image0.png"
+    },
+    "Image 2": {
+      "type": "image",
+      "path": "images/gallery/gdrive1/",
+      "data": "image1.png"
+    },
+    "Image 3": {
+      "type": "image",
+      "path": "images/gallery/gdrive1/",
+      "data": "image2.png"
+    }
+  },
+
+  "GDrive 2": {
+    "Image 1": {
+      "type": "image",
+      "path": "images/gallery/gdrive2/",
+      "data": "image0.png"
+    },
+    "Image 2": {
+      "type": "image",
+      "path": "images/gallery/gdrive2/",
+      "data": "image1.png"
+    },
+    "Image 3": {
+      "type": "image",
+      "path": "images/gallery/gdrive2/",
+      "data": "image2.png"
+    }
+  },
+
+  "GDrive 3": {
+    "Image 1": {
+      "type": "image",
+      "path": "images/gallery/gdrive3/",
+      "data": "image0.png"
+    },
+    "Image 2": {
+      "type": "image",
+      "path": "images/gallery/gdrive3/",
+      "data": "image1.png"
+    },
+    "Image 3": {
+      "type": "image",
+      "path": "images/gallery/gdrive3/",
+      "data": "image2.png"
+    }
+  }
+
+}
