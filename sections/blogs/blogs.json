@@ -1,16 +1,14 @@
 {
 	"Blogs": {
 		"Blogs": {
-			"type": "slug_component",
+			"type": "element_array",
 			"path": "images/blogs/",
-			"slug_structure": [
-				"Title",
-				"Date",
-				"Image",
-				"Small Description"
-			],
 			"data": [
 				{
+					"slug": {
+						"type": "slug",
+						"data": "blog_hola_1"
+					},
 					"Title": {
 						"type": "text",
 						"data": "Blog Title 1"
