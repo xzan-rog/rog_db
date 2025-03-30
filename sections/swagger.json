@@ -23,6 +23,10 @@
 		{
 			"title": "GDrive Images",
 			"admin_file": "sections/GDrive.json"
+		},
+		{
+			"title": "Blog",
+			"admin_file": "sections/blog/blogs.json"
 		}
 	]
 }

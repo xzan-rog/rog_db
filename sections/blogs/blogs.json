@@ -1,0 +1,32 @@
+{
+	"Blogs": {
+		"Blogs": {
+			"type": "element_array",
+			"path": "images/blogs/",
+			"data": [
+				{
+					"Title": {
+						"type": "text",
+						"data": "Blog Title 1"
+					},
+					"Date": {
+						"type": "date",
+						"data": 1743338826796
+					},
+					"Image": {
+						"type": "image",
+						"data": "blog1.png"
+					},
+					"Small Description": {
+						"type": "text",
+						"data": "Learn about our mission to establish Islamic education centers that foster knowledge and understanding."
+					},
+					"Blog Content": {
+						"type": "paragraph",
+						"data": "LARGE Data to be rendered"
+					}
+				}
+			]
+		}
+	}
+}
