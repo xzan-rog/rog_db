@@ -27,7 +27,7 @@
           },
           "Blog Content": {
             "type": "rich_text",
-            "data": "LARGE Data to be rendered"
+            "data": "<p>LARGE Data <strong>to </strong>be <strong>rendered</strong></p>"
           }
         }
       ]
