@@ -7,7 +7,7 @@
         {
           "slug": {
             "type": "slug",
-            "data": "blog_hola_1a "
+            "data": "blog_hola asd@"
           },
           "Title": {
             "type": "text",
