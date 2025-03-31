@@ -1,36 +1,36 @@
 {
-	"Blogs": {
-		"Blogs": {
-			"type": "element_array",
-			"path": "images/blogs/",
-			"data": [
-				{
-					"slug": {
-						"type": "slug",
-						"data": "blog_hola_1"
-					},
-					"Title": {
-						"type": "text",
-						"data": "Blog Title 1"
-					},
-					"Date": {
-						"type": "date",
-						"data": "2025-03-30"
-					},
-					"Image": {
-						"type": "image",
-						"data": "blog1.png"
-					},
-					"Small Description": {
-						"type": "text",
-						"data": "Learn about our mission to establish Islamic education centers that foster knowledge and understanding."
-					},
-					"Blog Content": {
-						"type": "rich_text",
-						"data": "LARGE Data to be rendered"
-					}
-				}
-			]
-		}
-	}
+  "Blogs": {
+    "Blogs": {
+      "type": "element_array",
+      "path": "images/blogs/",
+      "data": [
+        {
+          "slug": {
+            "type": "slug",
+            "data": "blog_hola_1"
+          },
+          "Title": {
+            "type": "text",
+            "data": "Blog Title_1"
+          },
+          "Date": {
+            "type": "date",
+            "data": "2025-03-30"
+          },
+          "Image": {
+            "type": "image",
+            "data": "blog1.png"
+          },
+          "Small Description": {
+            "type": "text",
+            "data": "Learn about our mission to establish Islamic education centers that foster knowledge and understanding."
+          },
+          "Blog Content": {
+            "type": "rich_text",
+            "data": "LARGE Data to be rendered"
+          }
+        }
+      ]
+    }
+  }
 }
