@@ -22,15 +22,15 @@
     },
     "Title Span Ar": {
       "type": "text",
-      "data": "from Allah"
+      "data": "خير من الله"
     },
     "Ayah Ar": {
       "type": "text",
-      "data": "Never will you attain the good [reward] until you spend [in the way of Allah] from that which you love. And whatever you spend - indeed, Allah is Knowing of it."
+      "data": "“لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ وَمَا تُنْفِقُوا مِنْ شَيْءٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ”"
     },
     "Sorah Ar": {
       "type": "text",
-      "data": "Surah Al Imran, Chapter 3: Verse 92"
+      "data": "سورة آل عمران: 92"
     },
     "Image Large": {
       "type": "image",
