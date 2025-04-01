@@ -18,7 +18,7 @@
     },
     "Title Text Ar": {
       "type": "text",
-      "data": "Hasten to goodness"
+      "data": "سارعو إلى"
     },
     "Title Span Ar": {
       "type": "text",
@@ -43,7 +43,6 @@
       "path": "images/homepage/hero/"
     }
   },
-
   "Donation Projects": {
     "Card 1 Title En": {
       "type": "text",
@@ -98,7 +97,6 @@
       "path": "images/homepage/donation_projects/"
     }
   },
-
   "Join Us": {
     "Join Us Image": {
       "type": "image",
