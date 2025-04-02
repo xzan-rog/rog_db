@@ -18,19 +18,19 @@
     },
     "Title Text Ar": {
       "type": "text",
-      "data": "Hasten to goodness"
+      "data": "سارعو إلى"
     },
     "Title Span Ar": {
       "type": "text",
-      "data": "from Allah"
+      "data": "خير من الله"
     },
     "Ayah Ar": {
       "type": "text",
-      "data": "Never will you attain the good [reward] until you spend [in the way of Allah] from that which you love. And whatever you spend - indeed, Allah is Knowing of it."
+      "data": "“لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ وَمَا تُنْفِقُوا مِنْ شَيْءٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ”"
     },
     "Sorah Ar": {
       "type": "text",
-      "data": "Surah Al Imran, Chapter 3: Verse 92"
+      "data": "سورة آل عمران: 92"
     },
     "Image Large": {
       "type": "image",
@@ -43,7 +43,6 @@
       "path": "images/homepage/hero/"
     }
   },
-
   "Donation Projects": {
     "Card 1 Title En": {
       "type": "text",
@@ -63,19 +62,19 @@
     },
     "Card 1 Title Ar": {
       "type": "text",
-      "data": "Feeding"
+      "data": "الإطعام"
     },
     "Card 2 Title Ar": {
       "type": "text",
-      "data": "Building Schools"
+      "data": "بناء المدارس"
     },
     "Card 3 Title Ar": {
       "type": "text",
-      "data": "Da’wa"
+      "data": "الدعوة"
     },
     "Card 4 Title Ar": {
       "type": "text",
-      "data": "Water Wells"
+      "data": "اَبار المياه"
     },
     "Card 1 Img": {
       "type": "image",
@@ -98,7 +97,6 @@
       "path": "images/homepage/donation_projects/"
     }
   },
-
   "Join Us": {
     "Join Us Image": {
       "type": "image",
