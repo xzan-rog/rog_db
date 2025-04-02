@@ -23,6 +23,11 @@
 		"Description Ar": {
 			"type": "text",
 			"data": "مساهمتك ليست مجرد عطاء مادي، بل هي إستثمار في بناء أجيال تتعلّم وتُعلّم قيم الإسلام. كن سببًا في نشر الخير."
+		},
+		"image": {
+			"type": "image",
+			"data": "hero.png",
+			"path": "images/donationProjects/"
 		}
 	},
 
