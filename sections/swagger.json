@@ -5,6 +5,10 @@
 			"admin_file": "sections/homepage.json"
 		},
 		{
+			"title": "Projects Page",
+			"admin_file": "sections/projects-page.json"
+		},
+		{
 			"title": "About Us",
 			"admin_file": "sections/about-us.json"
 		},

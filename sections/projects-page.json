@@ -1,0 +1,155 @@
+{
+	"Hero": {
+		"Title Text En": {
+			"type": "text",
+			"data": "Don't postpone good"
+		},
+		"Title Span En": {
+			"type": "text",
+			"data": "Take Action Now"
+		},
+		"Description En": {
+			"type": "text",
+			"data": "Your contribution is not just a financial donation, but an investment in building generations that learn and teach the values of Islam. Be a reason for spreading goodness."
+		},
+		"Title Text Ar": {
+			"type": "text",
+			"data": "لا تؤجل الخير"
+		},
+		"Title Span Ar": {
+			"type": "text",
+			"data": "بادر الاَن"
+		},
+		"Description Ar": {
+			"type": "text",
+			"data": "مساهمتك ليست مجرد عطاء مادي، بل هي إستثمار في بناء أجيال تتعلّم وتُعلّم قيم الإسلام. كن سببًا في نشر الخير."
+		}
+	},
+
+	"Projects": {
+		"Project 1 Title En": {
+			"type": "text",
+			"data": "Feeding projects"
+		},
+		"Project 1 Description En": {
+			"type": "text",
+			"data": "Our projects range from: sacrifice, basic needs, and Ramadan baskets."
+		},
+		"Project 2 Title En": {
+			"type": "text",
+			"data": "School Construction Projects"
+		},
+		"Project 2 Description En": {
+			"type": "text",
+			"data": "Our projects include: building public and Quranic schools and supporting orphans."
+		},
+		"Project 3 Title En": {
+			"type": "text",
+			"data": "Dawah Projects"
+		},
+		"Project 3 Description En": {
+			"type": "text",
+			"data": "Our projects range from building mosques to supporting imams."
+		},
+		"Project 4 Title En": {
+			"type": "text",
+			"data": "Water Well Projects"
+		},
+		"Project 4 Description En": {
+			"type": "text",
+			"data": "Our projects range from shallow water well construction to deep water well construction."
+		},
+		"Project 1 Title Ar": {
+			"type": "text",
+			"data": "مشاريع الإطعام"
+		},
+		"Project 1 Description Ar": {
+			"type": "text",
+			"data": "مشاريعنا تتدرج ما بين: الأضحية, الإحتياجات الأساسية و سلات رمضان."
+		},
+		"Project 2 Title Ar": {
+			"type": "text",
+			"data": "مشاريع بناء المدارس"
+		},
+		"Project 2 Description Ar": {
+			"type": "text",
+			"data": "مشاريعنا تتدرج ما بين: بناء المدارس العامة و القراَنية و دعم الأيتام."
+		},
+		"Project 3 Title Ar": {
+			"type": "text",
+			"data": "مشاريع الدعوة"
+		},
+		"Project 3 Description Ar": {
+			"type": "text",
+			"data": "مشاريعنا تتدرج ما بين: بناء المساجد و دعم الإمام."
+		},
+		"Project 4 Title Ar": {
+			"type": "text",
+			"data": "مشاريع اَبار المياه"
+		},
+		"Project 4 Description Ar": {
+			"type": "text",
+			"data": "مشاريعنا تتدرج ما بين: بناء اَبار مياه ضحلة و اَبار مياه عميقة."
+		},
+		"Project 1 Image 1": {
+			"type": "image",
+			"data": "p1image1.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 1 Image 2": {
+			"type": "image",
+			"data": "p1image2.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 1 Image 3": {
+			"type": "image",
+			"data": "p1image3.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 2 Image 1": {
+			"type": "image",
+			"data": "p2image1.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 2 Image 2": {
+			"type": "image",
+			"data": "p2image2.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 2 Image 3": {
+			"type": "image",
+			"data": "p2image3.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 3 Image 1": {
+			"type": "image",
+			"data": "p3image1.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 3 Image 2": {
+			"type": "image",
+			"data": "p3image2.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 3 Image 3": {
+			"type": "image",
+			"data": "p3image3.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 4 Image 1": {
+			"type": "image",
+			"data": "p4image1.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 4 Image 2": {
+			"type": "image",
+			"data": "p4image2.png",
+			"path": "images/donationProjects/"
+	    },
+	    "Project 4 Image 3": {
+			"type": "image",
+			"data": "p4image3.png",
+			"path": "images/donationProjects/"
+	    }
+	}
+}
