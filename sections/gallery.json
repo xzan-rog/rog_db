@@ -26,6 +26,12 @@
             "type": "image",
             "data": "image0.png"
           }
+        },
+        {
+          "Image": {
+            "type": "image",
+            "data": "1743783192673.png"
+          }
         }
       ]
     }
