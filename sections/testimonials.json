@@ -73,36 +73,6 @@
             "type": "text",
             "data": "جزاكم الله كل خير ⁦"
           }
-        },
-        {
-          "Name": {
-            "type": "text",
-            "data": "Person 8"
-          },
-          "Review": {
-            "type": "text",
-            "data": "Review 8"
-          }
-        },
-        {
-          "Name": {
-            "type": "text",
-            "data": "Person 9"
-          },
-          "Review": {
-            "type": "text",
-            "data": "Review 9"
-          }
-        },
-        {
-          "Name": {
-            "type": "text",
-            "data": ""
-          },
-          "Review": {
-            "type": "text",
-            "data": ""
-          }
         }
       ]
     }
