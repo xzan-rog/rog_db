@@ -43,6 +43,44 @@
       "path": "images/homepage/hero/"
     }
   },
+  "Hero Header": {
+    "Project 1 Title En": {
+      "type": "text",
+      "data": "Water Wells"
+    },
+    "Project 1 Title Ar": {
+      "type": "text",
+      "data": "آبار المياه"
+    },
+    "Project 1 Count": {
+      "type": "text",
+      "data": "350"
+    },
+    "Project 2 Title En": {
+      "type": "text",
+      "data": "Masjids"
+    },
+    "Project 2 Title Ar": {
+      "type": "text",
+      "data": "المساجد"
+    },
+    "Project 2 Count": {
+      "type": "text",
+      "data": "19"
+    },
+    "Project 3 Title En": {
+      "type": "text",
+      "data": "Schools"
+    },
+    "Project 3 Title Ar": {
+      "type": "text",
+      "data": "المدارس"
+    },
+    "Project 3 Count": {
+      "type": "text",
+      "data": "25"
+    },
+  },
   "Donation Projects": {
     "Card 1 Title En": {
       "type": "text",
