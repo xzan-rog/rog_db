@@ -1,5 +1,5 @@
 {
-  "About Us": {
+  "About Us Media": {
     "Image 1": {
       "type": "image",
       "data": "image_0.png",
@@ -10,15 +10,80 @@
       "data": "1746292176475.png",
       "path": "images/about-us/"
     },
-    "Image 3": {
-      "type": "image",
-      "data": "1746283426804.png",
-      "path": "images/about-us/"
+    "media 3": {
+      "type": "text",
+      "data": "https://www.youtube.com/embed/oqbe2AJULlQ?si=53_NQ9A-NSK8zlS5"
     },
     "Image 4": {
       "type": "image",
       "data": "1746295696375.png",
       "path": "images/about-us/"
+    }
+  },
+  "About Us Text": {
+    "Card 1 Title En": {
+      "type": "text",
+      "data": "Who We Are"
+    },
+    "Card 1 Description En": {
+      "type": "text",
+      "data": "Rivers of Goodness is a non-profit organization established and registered with the Ministry of Justice and Constitutional Affairs in Malawi (TR / INC 8418)."
+    },
+    "Card 1 Title Ar": {
+      "type": "text",
+      "data": "من نحن"
+    },
+    "Card 1 Description Ar": {
+      "type": "text",
+      "data": "أنهار الخير هي منظمة غير ربحية أنشئت وسجلت لدى وزارة العدل والشؤون الدستورية في ملاوي (TR / INC 8418)."
+    },
+    "Card 2 Title En": {
+      "type": "text",
+      "data": "Our Partners"
+    },
+    "Card 2 Description En": {
+      "type": "text",
+      "data": "We work together with international and local organizations that strive to help those in need, such as Life for Relief & Development in Canada & ACAS."
+    },
+    "Card 2 Title Ar": {
+      "type": "text",
+      "data": "شركاء العطاء"
+    },
+    "Card 2 Description Ar": {
+      "type": "text",
+      "data": "نحن نعمل معا مع المنظمات (الدولية و المحلية) التي تبذل جهودا لمساعدة المحتاجين مثل: جمعية التواصل للأعمال الاجتماعية و مؤسسة الحياة بكندا."
+    },
+    "Card 3 Title En": {
+      "type": "text",
+      "data": "Why Africa?"
+    },
+    "Card 3 Description En": {
+      "type": "text",
+      "data": "We believe Africa is a rich and amazing continent that faced marginalization. Our focus is on education and providing basic needs."
+    },
+    "Card 3 Title Ar": {
+      "type": "text",
+      "data": "لماذا أفريقيا؟"
+    },
+    "Card 3 Description Ar": {
+      "type": "text",
+      "data": "لأننا نؤمن أن إفريقيا قارة مذهلة و غنية و قد تعرضت للتهميش و سوء المعاملة. تركو المنظمة علي التعليم و توفير الإحتياجات الأساسية."
+    },
+    "Card 4 Title En": {
+      "type": "text",
+      "data": "Our Mission"
+    },
+    "Card 4 Description En": {
+      "type": "text",
+      "data": "We diligently provide relief, medical services, and development to underprivileged individuals in a dignified manner, opening growth opportunities."
+    },
+    "Card 4 Title Ar": {
+      "type": "text",
+      "data": "مهمتنا"
+    },
+    "Card 4 Description Ar": {
+      "type": "text",
+      "data": "نحن نقدم المساعدات الإنسانية مثل: الإغاثة و الحدمات الطبية و التنمية بطريقة كريمة للأفراد الأقل حظا لإتاحة فرص التطور و التقدم لهم."
     }
   }
 }
