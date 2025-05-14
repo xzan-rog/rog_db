@@ -50,11 +50,11 @@
     },
     "Project 1 Title Ar": {
       "type": "text",
-      "data": "آبار المياه"
+      "data": "بئر مياه"
     },
     "Project 1 Count": {
       "type": "text",
-      "data": "350"
+      "data": "450"
     },
     "Project 2 Title En": {
       "type": "text",
@@ -62,11 +62,11 @@
     },
     "Project 2 Title Ar": {
       "type": "text",
-      "data": "المساجد"
+      "data": "مسجد"
     },
     "Project 2 Count": {
       "type": "text",
-      "data": "19"
+      "data": "33"
     },
     "Project 3 Title En": {
       "type": "text",
@@ -74,11 +74,11 @@
     },
     "Project 3 Title Ar": {
       "type": "text",
-      "data": "المدارس"
+      "data": "مدرسة"
     },
     "Project 3 Count": {
       "type": "text",
-      "data": "25"
+      "data": "28"
     }
   },
   "Donation Projects": {
