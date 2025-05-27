@@ -33,11 +33,11 @@
         {
           "slug": {
             "type": "slug",
-            "data": ""
+            "data": "The_journey_of_feeding_and_helping_those_in_need"
           },
           "Title": {
             "type": "text",
-            "data": ""
+            "data": "The journey of feeding and helping those in need"
           },
           "Date": {
             "type": "date",
@@ -45,7 +45,7 @@
           },
           "Image": {
             "type": "image",
-            "data": "1748380125036.png"
+            "data": "1748380865196.png"
           },
           "Small Description": {
             "type": "text",
