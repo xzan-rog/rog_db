@@ -29,6 +29,32 @@
             "type": "rich_text",
             "data": "<p>eee</p>"
           }
+        },
+        {
+          "slug": {
+            "type": "slug",
+            "data": "gggdd"
+          },
+          "Title": {
+            "type": "text",
+            "data": "ffdfd"
+          },
+          "Date": {
+            "type": "date",
+            "data": "2025-06-20"
+          },
+          "Image": {
+            "type": "image",
+            "data": "1749578866811.webp"
+          },
+          "Small Description": {
+            "type": "text",
+            "data": "eeeee"
+          },
+          "Blog Content": {
+            "type": "rich_text",
+            "data": "<p>eeeee</p>"
+          }
         }
       ]
     }
