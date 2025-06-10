@@ -81,6 +81,32 @@
             "type": "rich_text",
             "data": "<p>Fgh</p>"
           }
+        },
+        {
+          "slug": {
+            "type": "slug",
+            "data": "Vhhh"
+          },
+          "Title": {
+            "type": "text",
+            "data": "Gg"
+          },
+          "Date": {
+            "type": "date",
+            "data": "2025-06-11"
+          },
+          "Image": {
+            "type": "image",
+            "data": ""
+          },
+          "Small Description": {
+            "type": "text",
+            "data": "Hhhh"
+          },
+          "Blog Content": {
+            "type": "rich_text",
+            "data": "<p>Ghhh</p>"
+          }
         }
       ]
     }
