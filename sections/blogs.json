@@ -33,11 +33,11 @@
         {
           "slug": {
             "type": "slug",
-            "data": "asdasd"
+            "data": "asdasdasd"
           },
           "Title": {
             "type": "text",
-            "data": "asdasdads"
+            "data": "asdasdasd"
           },
           "Date": {
             "type": "date",
@@ -45,15 +45,15 @@
           },
           "Image": {
             "type": "image",
-            "data": "1749572715731.JPG"
+            "data": "1749572741816.JPG"
           },
           "Small Description": {
             "type": "text",
-            "data": "asdasd"
+            "data": "adasdasd"
           },
           "Blog Content": {
             "type": "rich_text",
-            "data": "<p>asdasd</p>"
+            "data": "<p>asdasdd</p>"
           }
         }
       ]
