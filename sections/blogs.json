@@ -7,105 +7,27 @@
         {
           "slug": {
             "type": "slug",
-            "data": "eee"
+            "data": ""
           },
           "Title": {
             "type": "text",
-            "data": "eee"
+            "data": ""
           },
           "Date": {
             "type": "date",
-            "data": "2025-06-27"
+            "data": ""
           },
           "Image": {
             "type": "image",
-            "data": "1749577181921.JPG"
+            "data": ""
           },
           "Small Description": {
             "type": "text",
-            "data": "eeeee"
+            "data": ""
           },
           "Blog Content": {
             "type": "rich_text",
-            "data": "<p>eee</p>"
-          }
-        },
-        {
-          "slug": {
-            "type": "slug",
-            "data": "jjjjjfjfjf"
-          },
-          "Title": {
-            "type": "text",
-            "data": "nfbfbfbfb"
-          },
-          "Date": {
-            "type": "date",
-            "data": "2025-06-19"
-          },
-          "Image": {
-            "type": "image",
-            "data": "1749580263136.JPG"
-          },
-          "Small Description": {
-            "type": "text",
-            "data": "jhththy"
-          },
-          "Blog Content": {
-            "type": "rich_text",
-            "data": "<p>jfjfjjf</p>"
-          }
-        },
-        {
-          "slug": {
-            "type": "slug",
-            "data": "Ghh"
-          },
-          "Title": {
-            "type": "text",
-            "data": "Ssid"
-          },
-          "Date": {
-            "type": "date",
-            "data": "2025-06-06"
-          },
-          "Image": {
-            "type": "image",
-            "data": "1749590943521.jpg"
-          },
-          "Small Description": {
-            "type": "text",
-            "data": "Ffv"
-          },
-          "Blog Content": {
-            "type": "rich_text",
-            "data": "<p>Fgh</p>"
-          }
-        },
-        {
-          "slug": {
-            "type": "slug",
-            "data": "Vhhh"
-          },
-          "Title": {
-            "type": "text",
-            "data": "Gg"
-          },
-          "Date": {
-            "type": "date",
-            "data": "2025-06-11"
-          },
-          "Image": {
-            "type": "image",
-            "data": "1749596022318.png"
-          },
-          "Small Description": {
-            "type": "text",
-            "data": "Hhhh"
-          },
-          "Blog Content": {
-            "type": "rich_text",
-            "data": "<p>Ghhh</p>"
+            "data": ""
           }
         }
       ]
