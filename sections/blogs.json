@@ -7,7 +7,7 @@
         {
           "slug": {
             "type": "slug",
-            "data": "123"
+            "data": ""
           },
           "Title": {
             "type": "text",
@@ -19,7 +19,7 @@
           },
           "Image": {
             "type": "image",
-            "data": "1749525223525.png"
+            "data": "1749525238712.png"
           },
           "Small Description": {
             "type": "text",
