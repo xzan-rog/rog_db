@@ -55,6 +55,32 @@
             "type": "rich_text",
             "data": "<p>jfjfjjf</p>"
           }
+        },
+        {
+          "slug": {
+            "type": "slug",
+            "data": "Ghh"
+          },
+          "Title": {
+            "type": "text",
+            "data": "Ssid"
+          },
+          "Date": {
+            "type": "date",
+            "data": "2025-06-06"
+          },
+          "Image": {
+            "type": "image",
+            "data": ""
+          },
+          "Small Description": {
+            "type": "text",
+            "data": "Ffv"
+          },
+          "Blog Content": {
+            "type": "rich_text",
+            "data": "<p>Fgh</p>"
+          }
         }
       ]
     }
