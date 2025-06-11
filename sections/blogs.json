@@ -29,6 +29,32 @@
             "type": "rich_text",
             "data": "<p></p><p>521</p>"
           }
+        },
+        {
+          "slug": {
+            "type": "slug",
+            "data": "asdasd"
+          },
+          "Title": {
+            "type": "text",
+            "data": "asdasd"
+          },
+          "Date": {
+            "type": "date",
+            "data": "2025-06-11"
+          },
+          "Image": {
+            "type": "image",
+            "data": ""
+          },
+          "Small Description": {
+            "type": "text",
+            "data": "asdasd"
+          },
+          "Blog Content": {
+            "type": "rich_text",
+            "data": "<p>asdasd</p>"
+          }
         }
       ]
     }
