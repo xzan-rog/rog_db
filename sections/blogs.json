@@ -55,6 +55,32 @@
             "type": "rich_text",
             "data": "<p>asdasd</p>"
           }
+        },
+        {
+          "slug": {
+            "type": "slug",
+            "data": "63563"
+          },
+          "Title": {
+            "type": "text",
+            "data": "563563"
+          },
+          "Date": {
+            "type": "date",
+            "data": "2025-06-21"
+          },
+          "Image": {
+            "type": "image",
+            "data": ""
+          },
+          "Small Description": {
+            "type": "text",
+            "data": "12531532"
+          },
+          "Blog Content": {
+            "type": "rich_text",
+            "data": "<p>516314563</p>"
+          }
         }
       ]
     }
