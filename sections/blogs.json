@@ -81,32 +81,6 @@
             "type": "rich_text",
             "data": "<p>516314563</p>"
           }
-        },
-        {
-          "slug": {
-            "type": "slug",
-            "data": "266215"
-          },
-          "Title": {
-            "type": "text",
-            "data": "15635163"
-          },
-          "Date": {
-            "type": "date",
-            "data": "2025-06-21"
-          },
-          "Image": {
-            "type": "image",
-            "data": "1750508795318.jpg"
-          },
-          "Small Description": {
-            "type": "text",
-            "data": "63226"
-          },
-          "Blog Content": {
-            "type": "rich_text",
-            "data": "<p>652+652+</p><p></p>"
-          }
         }
       ]
     }
