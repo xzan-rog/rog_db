@@ -85,15 +85,15 @@
         {
           "slug": {
             "type": "slug",
-            "data": ""
+            "data": "65465"
           },
           "Title": {
             "type": "text",
-            "data": ""
+            "data": "asdasd"
           },
           "Date": {
             "type": "date",
-            "data": ""
+            "data": "2025-06-21"
           },
           "Image": {
             "type": "image",
@@ -101,11 +101,11 @@
           },
           "Small Description": {
             "type": "text",
-            "data": ""
+            "data": "asdas"
           },
           "Blog Content": {
             "type": "rich_text",
-            "data": ""
+            "data": "<p>asdasd</p>"
           }
         }
       ]
